@@ -1,8 +1,4 @@
 # Excel-Projects
-echo "# Excel-Projects" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/nsr-95/Excel-Projects.git
-git push -u origin main
+This repository contains all the Excel projects as part of the portfolio and hobby projects - data sets, dashboards, reports
+https://github.com/nsr-95/Excel-Projects.git
+
